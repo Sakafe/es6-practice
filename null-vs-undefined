@@ -1,0 +1,19 @@
+// let pakhi ;
+// function add (num1,num2){
+//     console.log(num1 + num2);
+//     return 
+// }
+// function add (num1,num2){
+//     console.log(num1,num2);
+// }
+// const result = add(56);
+// console.log(result);
+
+// const person = {Name:"Ashik",Address:"Dhaka",phone:0171234567};
+// console.log(person.age);
+
+// let fun = undefined;
+// console.log(fun);
+
+let age = [4,5,6,9];
+console.log(age[9]);
